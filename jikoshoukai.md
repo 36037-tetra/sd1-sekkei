@@ -35,7 +35,7 @@
   - [Beatmania IIDX](https://p.eagate.573.jp/game/2dx/34/)
   - [グランブルーファンタジー](https://granbluefantasy.jp/)
     - ユーザー名: テトラ
-    - ランク: 316
+    - ランク: 317
     - ID: 34322413
   - [GRANBLUE FANTASY: Relink](https://store.steampowered.com/app/881020/GRANBLUE_FANTASY_Relink/)
   - [Summer Pockets Reflection Blue](https://key.visualarts.gr.jp/sp/)
