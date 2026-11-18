@@ -42,8 +42,8 @@
   - [素晴らしき日々　~ 不連続存在 ~](https://www.keroq.co.jp/suba/)
   - [Armored Core VI FIRES OF RUBICON](https://store.steampowered.com/app/1888160/ARMORED_CORE_VI_FIRES_OF_RUBICON/)
   - [雀魂](https://game.mahjongsoul.com/index.html)
-  - [FF14](https://secure.square-enix.com/account/app/svc/mogstation/)
-    - 11/3から始めた初心者巴術士 某じは～ど先生と同じワールドで活動中
+  - [FF14](https://secure.square-eix.com/account/app/svc/mogstation/)
+    - 11/3から始めた初心者召喚士 某じは～ど先生と同じワールドで活動
 
 ## 好きな言葉
 
